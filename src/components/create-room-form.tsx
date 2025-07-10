@@ -39,7 +39,7 @@ export function CreateRoomForm() {
   }
 
   return (
-    <Card>
+    <Card className="p-4">
       <CardTitle>Criar sala</CardTitle>
       <CardDescription>
         Crie uma nova sala para começar a fazer perguntas e receber respostas da
